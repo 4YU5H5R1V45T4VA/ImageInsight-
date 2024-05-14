@@ -1,0 +1,22 @@
+Steps To Execute :
+Fruits and Vegetables Dataset:
+1. Sign up for a Google Gemini Account and get an API Key.
+2. Open Pilot_Run.ipynb, Mount your Google Drive, In secrets add the API Key and save it.Run each cell, modify API key with your own api key.
+3. Train the model and save it in .h5 format locally.
+4. Visualize the graphs.
+5. Open TestNoteBook.ipynb, and Upload the trained model .h5 file.Make sure to have requried Datasets in your Google Drive.
+6. Connect/Mount your google drive and run each cell.
+7. Test the outcome and convert and save it in audio format (.wav file).
+
+Birds Dataset:
+1. Sign up for a Google Gemini Account and get an API Key.
+2. Open Birds.ipynb, Mount your Google Drive, In secrets add the API Key and save it.Run each cell, modify API key with your own api key.
+3. Train the model and save it in .h5 format locally.
+4. Visualize the graphs.
+5. Test the outcome and convert and save it in audio format (.wav file).
+
+
+
+Datasets Link:
+Fruits and Vegetable Dataset : https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+Birds Dataset: https://www.kaggle.com/datasets/figolm10/the-birds
